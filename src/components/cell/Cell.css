@@ -1,0 +1,14 @@
+
+/* .Cell{width:6.4rem; margin:0 auto;color:#494d4d; padding:0.2rem 0.4rem; border-bottom:1px dashed #ccc;}
+
+
+.Cell h2{max-height:0.9rem; font-size:0.33rem; overflow:hidden;}
+.Cell p{max-height:1.8rem; margin-top:0.05rem;overflow:hidden;} */
+/*.Cell {clear: both;margin-bottom:1rem;}*/
+
+
+
+.cell{margin-left:5px;width:0.3rem;overflow:hidden;justify-content:space-around;display:flex;}
+li{float:left;margin-left:10px;}
+.Cell h2{max-height:0.32rem; font-size:0.25rem; width:1rem;overflow:hidden;color:rgb(63, 2, 2);}
+.Cell p{max-height:2.8rem; margin-top:0.05rem;color:rgba(248, 149, 0, 0.863);} 

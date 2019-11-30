@@ -1,0 +1,14 @@
+html{position: relative;}
+/* .foot-btn{width:100%;height:0.5rem; background:#fff; position: absolute;bottom:0; border-top:1px solid #9e9a95;} */
+.foot{z-index:1;width:100%;height:0.8rem; background:#fff; position:fixed; left:0; bottom:0; border-top:1px solid #9e9a95;}
+.foot ul{width:100%;display:flex;overflow: hidden;}
+.foot ul li {text-align:center;vertical-align: middle;}
+.foot ul li span{font-size:20px;line-height:45px;}
+/* .foot-btn ul li a{ display:block; width:100%;height:100%;} */
+.foot ul .home{float:left;width:0.5rem;height:0.59rem; background:url(../img/home.png) no-repeat 0 0; background-size:100%; margin:0.2rem 0 0 0.65rem;padding-top:0.35rem;}
+.foot ul .sort{float:left;width:0.45rem;height:0.59rem; background:url(../img/xing.png) no-repeat 0 0; background-size:100%; margin:0.2rem 0 0 0.65rem;padding-top:0.35rem;}
+.foot ul .add{float:right;background-color:#fd6704;}
+.foot ul .add span{text-align:center;}
+.body .a{font:18px/25px "";color:#5a5a5a;}
+.body .b{font:16px/25px "";color:#f70303;}
+.body .c{font:16px/25px "";color:#5a5a5a;}
